@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/0ta52/Desktop/ZXing.Net-master/Clients/UnityDemo/Assets/UnityDemo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
